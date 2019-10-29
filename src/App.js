@@ -8,8 +8,8 @@ function App() {
   const [lionScore, setLionScore] = useState(0);
   const [tigerScore, setTigerScore] = useState(0);
 
-  const touchdownScore = 6;
-  const fieldGoalScore = 1;
+  const touchdownScore = 7;
+  const fieldGoalScore = 3;
 
   return (
     <div className="container">
